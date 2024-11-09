@@ -15,6 +15,7 @@ SIMD is a type of parallel processing that allows a single instruction to be per
 ```
 [1,2,3,4] + [1,1,1,1] = One operation
 ```
+This is super cool to be honest. 
 
 ## Implementation
 
