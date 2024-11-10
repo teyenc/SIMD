@@ -36,7 +36,6 @@ Speedup: 1.60826x
 
 ## Building and Running
 ```bash
-cd cpp
 g++ -o main main.cpp
 ./main
 ```
