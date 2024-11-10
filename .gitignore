@@ -1,0 +1,32 @@
+# Ignore build directories and files
+cmake-build-*/
+
+# Ignore CMake generated files
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
+
+# Ignore IDE specific files and directories
+.idea/
+.vscode/
+
+# Ignore compiled binary files
+main
+
+# Ignore Makefile generated files (if they are not part of your source code)
+Makefile
+
+# Ignore other common files
+*.o
+*.obj
+*.out
+*.exe
+*.log
+
+# Exclude README.md (typically included in the repository)
+!README.md
+
+# Ignore any other temporary or backup files
+*.tmp
+*.swp
+*~

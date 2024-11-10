@@ -1,4 +1,0 @@
-Cannot generate into /home/andy/Desktop/Code/side-project/SIMD/cpp
-It is already used for project /home/andy/CLionProjects/SIMD
-
-Please either delete it manually or select another generation directory
